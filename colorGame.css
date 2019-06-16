@@ -1,0 +1,55 @@
+body {
+	background-color: #232323; 
+	margin: 0;
+}
+
+.square{
+	width: 30%;
+	background: purple;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+
+}
+
+#container{
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+h1{
+	text-align: center;
+	line-height: 1.1;
+	color: white;
+	background: steelblue;
+	margin: 0;
+	font-weight: normal;
+	text-transform: uppercase;
+	padding: 20px 0;
+}
+
+/*span{
+	color: white;
+}
+*/
+
+#colorDisplay{
+	font-size: 200%;
+}
+
+
+#stripe{
+	background: white;
+	height: 30px;
+	text-align: center;
+	color: black;
+}
+
+button{
+	border: none;
+	background: none;
+	font-weight: 700;
+	color: steelblue;
+	text-transform: uppercase;
+	height: 100%;
+}
